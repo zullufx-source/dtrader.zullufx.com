@@ -4,8 +4,8 @@
     "brand_logo_dark": "brand/platform-logo.svg",
     "brand_domain": "zullu.co.ke",
     "brand_hostname": {
-        "staging": "https://dtrader-zullufx-com.vercel.app",
-        "production": "https://dtrader-zullufx-com.vercel.app"
+        "staging": "dtrader-zullufx-com.vercel.app",
+        "production": "dtrader-zullufx-com.vercel.app"
     },
     "platform": {
         "name": "Zullu FX",
