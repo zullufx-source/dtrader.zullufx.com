@@ -4,35 +4,35 @@
     "brand_logo_dark": "brand/platform-logo.svg",
     "brand_domain": "zullu.co.ke",
     "brand_hostname": {
-        "staging": "https://dtrader-zullufx-com.vercel.app",
-        "production": "https://dtrader-zullufx-com.vercel.app"
+        "staging": "dtrader-zullufx-com.vercel.app",
+        "production": "dtrader-zullufx-com.vercel.app"
     },
     "platform": {
         "name": "Zullu FX",
         "description": "A whole new trading experience on a powerful yet easy to use platform.",
         "logo": "brand/platform-logo.svg",
-        "home_url": "https://home.deriv.com/dashboard",
-        "help_centre_url": "https://trade.deriv.com/help-centre"
+        "home_url": "home.deriv.com/dashboard",
+        "help_centre_url": "trade.deriv.com/help-centre"
     },
     "signup_url": {
-        "production": "https://home.deriv.com/dashboard/signup",
-        "staging": "https://home.deriv.com/dashboard/signup"
+        "production": "home.deriv.com/dashboard/signup",
+        "staging": "home.deriv.com/dashboard/signup"
     },
     "deposit_url": {
-        "staging": "https://dtrader-template.pages.dev/transfer",
-        "production": "https://dtrader-template.pages.dev/transfer"
+        "staging": "dtrader-template.pages.dev/transfer",
+        "production": "dtrader-template.pages.dev/transfer"
     },
     "auth": {
-        "staging": "https://auth.deriv.com",
-        "production": "https://auth.deriv.com",
+        "staging": "auth.deriv.com",
+        "production": "auth.deriv.com",
         "oauth_scopes": ["trade", "account_manage"],
-        "oauth_redirect_uri_staging": "https://dtrader-template.pages.dev",
-        "oauth_redirect_uri_production": "https://dtrader-template.pages.dev",
+        "oauth_redirect_uri_staging": "dtrader-template.pages.dev",
+        "oauth_redirect_uri_production": "dtrader-template.pages.dev",
         "oauth_app_id": "33bwKJisse4x97RR0zpa0"
     },
     "derivws": {
-        "staging": "https://api.derivws.com",
-        "production": "https://api.derivws.com"
+        "staging": "api.derivws.com",
+        "production": "api.derivws.com"
     },
     "api_core": {
         "staging": "api-core.deriv.com",
