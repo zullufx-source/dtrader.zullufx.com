@@ -325,3 +325,5 @@ Everything in `brand.config.json` and `assets/brand/`:
 ## License
 
 Apache 2.0 — see [LICENSE](../LICENSE) for details.
+
+https://home.deriv.com/dashboard/error?error=invalid_request&error_description=The+request+is+missing+a+required+parameter%2C+includes+an+invalid+parameter+value%2C+includes+a+parameter+more+than+once%2C+or+is+otherwise+malformed.+The+%27redirect_uri%27+parameter+does+not+match+any+of+the+OAuth+2.0+Client%27s+pre-registered+redirect+urls.
