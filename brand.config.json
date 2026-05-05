@@ -4,8 +4,8 @@
     "brand_logo_dark": "brand/platform-logo.svg",
     "brand_domain": "zullu.co.ke",
     "brand_hostname": {
-        "staging": "https://zullufx.vercel.app/",
-        "production": "https://zullufx.vercel.app/"
+        "staging": "https://dtrader-zullufx-com.vercel.app",
+        "production": "https://dtrader-zullufx-com.vercel.app"
     },
     "platform": {
         "name": "Zullu FX",
@@ -19,27 +19,27 @@
         "staging": "https://home.deriv.com/dashboard/signup"
     },
     "deposit_url": {
-        "staging": "https://staging.dtrader-template.pages.dev/transfer",
+        "staging": "https://dtrader-template.pages.dev/transfer",
         "production": "https://dtrader-template.pages.dev/transfer"
     },
     "auth": {
-        "staging": "https://staging-auth.deriv.com",
+        "staging": "https://auth.deriv.com",
         "production": "https://auth.deriv.com",
         "oauth_scopes": ["trade", "account_manage"],
-        "oauth_redirect_uri_staging": "https://staging.dtrader-template.pages.dev",
+        "oauth_redirect_uri_staging": "https://dtrader-template.pages.dev",
         "oauth_redirect_uri_production": "https://dtrader-template.pages.dev",
         "oauth_app_id": ""
     },
     "derivws": {
-        "staging": "https://staging-api.derivws.com",
+        "staging": "https://api.derivws.com",
         "production": "https://api.derivws.com"
     },
     "api_core": {
-        "staging": "staging-api-core.deriv.com",
+        "staging": "api-core.deriv.com",
         "production": "api-core.deriv.com"
     },
     "api": {
-        "staging": "staging-api.deriv.com",
+        "staging": "api.deriv.com",
         "production": "api.deriv.com"
     },
     "app_id": {
