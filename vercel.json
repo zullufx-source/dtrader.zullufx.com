@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run serve core",
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
