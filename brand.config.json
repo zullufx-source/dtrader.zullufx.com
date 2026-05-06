@@ -35,12 +35,12 @@
         "production": "https://api.derivws.com"
     },
     "api_core": {
-        "staging": "api-core.deriv.com",
-        "production": "api-core.deriv.com"
+        "staging": "https://api-core.deriv.com",
+        "production": "https://api-core.deriv.com"
     },
     "api": {
-        "staging": "api.deriv.com",
-        "production": "api.deriv.com"
+        "staging": "https://api.deriv.com",
+        "production": "https://api.deriv.com"
     },
     "app_id": {
         "staging": 16929,
